@@ -1,0 +1,12 @@
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\bin\Debug\SentenciasSQL.exe.config
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\bin\Debug\SentenciasSQL.exe
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\bin\Debug\SentenciasSQL.pdb
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\bin\Debug\SentenciasSQL.xml
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.vbprojAssemblyReference.cache
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.Resources.resources
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.vbproj.GenerateResource.cache
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.vbproj.CoreCompileInputs.cache
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.exe
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.xml
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.pdb
+C:\Users\leninjo\Videos\SentenciasSQL\SentenciasSQL\obj\Debug\SentenciasSQL.LectorSQL.resources
